@@ -8,9 +8,9 @@ export default function Layout(){
       return(
             <div>
                   <Header/>
-                  <div>      
-                        <Main/>
+                  <div className={styles.div}>      
                         <SideBar/>
+                        <Main/>
                   </div>
                   <Footer/>
             </div>

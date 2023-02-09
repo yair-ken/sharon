@@ -2,7 +2,7 @@ import styles from "./style.module.css"
 
 export default function Footer(){
       return(
-      <div>
+      <div dir="ltr">
             שרון קן
       </div>
       )
