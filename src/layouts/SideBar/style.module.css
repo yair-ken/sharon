@@ -1,0 +1,9 @@
+.list{
+    border: 1px solid black;
+    height: 50px;
+    width: 250px;
+    background: skyblue;
+    margin: 2px;
+    text-align: center;
+    font-size: x-large;
+}
